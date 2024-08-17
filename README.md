@@ -11,7 +11,7 @@
 - Graph-structured visualizations of mythological stories.
 
 📫 **How to Reach Me**:
-- Email: [wuhan@whu.edu.cn]
-- Google Scholar: [[Google Scholar Profile URL](https://scholar.google.com/citations?user=xv78JsEAAAAJ&hl=zh-CN)]]
+- Email: [whulh@whu.edu.cn]
+- Google Scholar: [[Google Scholar Profile](https://scholar.google.com/citations?user=xv78JsEAAAAJ&hl=zh-CN)]]
 
 Feel free to reach out if you are interested in collaborating or if you have any questions or ideas you'd like to discuss!
