@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi there, I'm @Lihaogx
 
-<!--
-**Lihaogx/Lihaogx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**:
+- PhD candidate in Computer Science at [Wuhan University]
 
-Here are some ideas to get you started:
+🔍 **Research Interests**:
+- Specializing in [Graph Neural Network | Topological Machine Learning ].
+- Exploring [Social Network analysis | LLM for Social science].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Hobbies**:
+- Graph-structured visualizations of mythological stories.
+
+📫 **How to Reach Me**:
+- Email: [wuhan@whu.edu.cn]
+- Google Scholar: [[Google Scholar Profile URL]()](https://scholar.google.com/citations?user=xv78JsEAAAAJ&hl=zh-CN)]
+
+Feel free to reach out if you are interested in collaborating or if you have any questions or ideas you'd like to discuss!
