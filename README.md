@@ -1,7 +1,7 @@
 👋 Hi there, I'm @Lihaogx
 
 🎓 **Education**:
-- PhD candidate in Computer Science at [Wuhan University]
+- PhD candidate at [Wuhan University]
 
 🔍 **Research Interests**:
 - Specializing in [Graph Neural Network | Topological Machine Learning ].
